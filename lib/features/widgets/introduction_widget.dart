@@ -54,7 +54,7 @@ class IntroductionWidget extends StatelessWidget {
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(24),
             image: const DecorationImage(
-              image: AssetImage('profile.png'),
+              image:  NetworkImage('https://i.postimg.cc/N0sXbN2s/profile.png'),
               fit: BoxFit.cover,
             ),
           ),

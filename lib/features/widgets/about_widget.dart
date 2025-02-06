@@ -70,7 +70,7 @@ class AboutWidget extends StatelessWidget {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(20),
               image: const DecorationImage(
-                image: AssetImage('profile.png'),
+                image: NetworkImage('https://i.postimg.cc/N0sXbN2s/profile.png'),
                 fit: BoxFit.cover,
               ),
             ),

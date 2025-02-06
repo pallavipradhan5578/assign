@@ -41,14 +41,14 @@ class ContactMeWidget extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image(
-                image: AssetImage('linkedin.png'),
+                image: AssetImage('screenshots/linkedin.png'),
                 height: 35,
                 width: 35,
                 color: Colors.white,
               ),
               SizedBox(width: 35),
               Image(
-                image: AssetImage('github.png'),
+                image: AssetImage('screenshots/github.png'),
                 height: 35,
                 width: 35,
               ),
